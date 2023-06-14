@@ -1,0 +1,47 @@
+#newsletter, #bioma, #doaçao {
+    margin: 10% 15%;
+}
+
+.header {
+    margin: 0 20%;
+}
+
+h1 {
+    font-size: 9rem;
+    font-family: 'Merriweather', serif;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+}
+
+p {
+    font-size: large;
+}
+
+.buttons {
+    margin: 25px 22% 30px 20%;
+    line-height: 1;
+}
+
+.noticia {
+    width: 600px;
+    margin-bottom: 40px;
+}
+
+.noticias, .video, .foto-1 {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-top: 40px;
+}
+
+.tudo {
+    display: grid;
+    justify-content: center;
+}
+
+.link {
+    text-decoration: none;
+}
