@@ -30,7 +30,7 @@ p {
     margin-bottom: 40px;
 }
 
-.noticias, .video, .foto-1 {
+.noticias, .video, .foto-1, foto-2 {
     display: grid;
     justify-content: center;
     align-items: center;
