@@ -16,7 +16,8 @@ h2 {
 }
 
 p {
-    font-size: large;
+    font-size: larger;
+    text-align: justify;
 }
 
 .buttons {
